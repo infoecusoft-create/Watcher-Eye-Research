@@ -4,7 +4,6 @@
 
 **Author:** Dr. Eng. Sayed Mostafa
 **Research and Development Team:** Watcher Eye Development Team
-**Technical Lead:** Ahmed El-Sakhawy
 **Document Type:** Research Paper
 **Version:** 1.0
 **Date:** August 2026
